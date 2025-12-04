@@ -1,0 +1,2 @@
+// Auto-generated file: D:\MyCode\zama\demo\styles-core\controller-serializer.txt
+// Generated at: 2025-10-05T16:42:12.177Z
